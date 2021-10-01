@@ -41,7 +41,7 @@ Repository | Description
 [**SecretFinder**](https://github.com/m4ll0k/SecretFinder)    | Written to discover sensitive data like apikeys, accesstoken, authorizations, jwt in JavaScript files.
 [**Port Scanner**](https://github.com/bao7uo/PortRanger)    | Converts an unordered list of ports on separate lines in a numerical order.
 [**Breacher**](https://github.com/s0md3v/Breacher)    | A script to find admin login pages and EAR vulnerabilites.
-
+[**Git-Secret**](https://github.com/daffainfo/Git-Secret)   | Go scripts for finding sensitive data like API key / some keywords in the github repository
 
 
 # System Hacking 🧑🏼‍💻
