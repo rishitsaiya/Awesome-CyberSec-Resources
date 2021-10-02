@@ -166,6 +166,7 @@ Repository | Description
 [**DroidCam (Capture Image)**](https://github.com/kinghacker0/WishFish)    | Generates different phishing links of wishing or custom sites which can grab victim's front camera pictures.
 [**EvilApp (Hijack Session)**](https://github.com/Ro9ueAdmin/EvilApp)   | Script to generate Android App that can hijack autenticated sessions in cookies.
 [**HatCloud(Bypass CloudFlare for IP)**](https://github.com/HatBashBR/HatCloud)    | It makes bypass in CloudFlare for discover the real IP. 
+[**Ghost(remotely access an Android device)**](https://github.com/EntySec/Ghost)    |  Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device. 
 
 
 
