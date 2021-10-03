@@ -127,6 +127,7 @@ Repository | Description
 Repository | Description
 ---- | ---- 
 [**Awesome Web Hacking**](https://github.com/infoslack/awesome-web-hacking)    | A collection of tools used for SQL Injections and hacking websites.
+[**PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)    | A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 
 
 
