@@ -195,3 +195,10 @@ Repository | Description
 [**Guide**](http://trailofbits.github.io/ctf/)    | Beginner's Guide to CTF Field.
 [**PicoCTF**](https://picoctf.org/)    | Beginner friendly CTF to compete.
 [**CryptoHack**](https://cryptohack.org/)    | Best free platform for learning modern cryptography.
+
+
+
+# OSINT (Open Source INTelligence)
+Repository | Description
+---- | ---- 
+[**Awesome OSINT**](https://github.com/jivoi/awesome-osint)    | A curated list of amazingly awesome open source intelligence tools and resources.
