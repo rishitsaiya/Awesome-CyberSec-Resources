@@ -182,6 +182,7 @@ Repository | Description
 Repository | Description
 ---- | ---- 
 [**Awesome Cryptography**](https://github.com/sobolevn/awesome-cryptography)    | A curated list of cryptography resources and links.
+[**dCode**](https://www.dcode.fr/en)    | Toolkit website for decryption, ciphertexts, solve riddles, treasure hunts, etc.
 
 
 
@@ -193,4 +194,4 @@ Repository | Description
 [**CTF101**](https://ctf101.org/)    | Introduction to CTFs and Useful tools.
 [**Guide**](http://trailofbits.github.io/ctf/)    | Beginner's Guide to CTF Field.
 [**PicoCTF**](https://picoctf.org/)    | Beginner friendly CTF to compete.
-
+[**CryptoHack**](https://cryptohack.org/)    | Best free platform for learning modern cryptography.
