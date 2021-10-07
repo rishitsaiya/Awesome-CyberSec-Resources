@@ -197,8 +197,16 @@ Repository | Description
 [**CryptoHack**](https://cryptohack.org/)    | Best free platform for learning modern cryptography.
 
 
-
 # OSINT (Open Source INTelligence)
 Repository | Description
 ---- | ---- 
 [**Awesome OSINT**](https://github.com/jivoi/awesome-osint)    | A curated list of amazingly awesome open source intelligence tools and resources.
+
+#  Encryption 🔒
+Repository | Description
+---- | ---- 
+[**LifeHacker**](https://lifehacker.com/a-beginners-guide-to-encryption-what-it-is-and-how-to-1508196946)    | Guide for Beginners to learn encryption.
+[**Encryption For Business**](https://www.businessnewsdaily.com/9391-computer-encryption-guide.html)    | Business Guide to Encryption 
+[**USB Encryption**](https://www.ebuyer.com/blog/2017/11/guide-to-usb-encryption/)    | Guide to USB encryption.
+[**Encryption Tools**](https://heimdalsecurity.com/blog/free-encryption-software-tools/)    | How to use Encryption Tools.
+[**Cipher Newsletter**](https://www.ieee-security.org/cipher.html)    | Newsletter which will keep you updated.
