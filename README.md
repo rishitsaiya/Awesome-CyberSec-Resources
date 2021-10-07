@@ -182,6 +182,7 @@ Repository | Description
 Repository | Description
 ---- | ---- 
 [**Awesome Cryptography**](https://github.com/sobolevn/awesome-cryptography)    | A curated list of cryptography resources and links.
+[**dCode**](https://www.dcode.fr/en)    | Toolkit website for decryption, ciphertexts, solve riddles, treasure hunts, etc.
 
 
 
@@ -193,7 +194,13 @@ Repository | Description
 [**CTF101**](https://ctf101.org/)    | Introduction to CTFs and Useful tools.
 [**Guide**](http://trailofbits.github.io/ctf/)    | Beginner's Guide to CTF Field.
 [**PicoCTF**](https://picoctf.org/)    | Beginner friendly CTF to compete.
+[**CryptoHack**](https://cryptohack.org/)    | Best free platform for learning modern cryptography.
 
+
+# OSINT (Open Source INTelligence)
+Repository | Description
+---- | ---- 
+[**Awesome OSINT**](https://github.com/jivoi/awesome-osint)    | A curated list of amazingly awesome open source intelligence tools and resources.
 
 #  Encryption 🔒
 Repository | Description
@@ -203,4 +210,3 @@ Repository | Description
 [**USB Encryption**](https://www.ebuyer.com/blog/2017/11/guide-to-usb-encryption/)    | Guide to USB encryption.
 [**Encryption Tools**](https://heimdalsecurity.com/blog/free-encryption-software-tools/)    | How to use Encryption Tools.
 [**Cipher Newsletter**](https://www.ieee-security.org/cipher.html)    | Newsletter which will keep you updated.
-
