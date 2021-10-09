@@ -155,6 +155,8 @@ Repository | Description
 [**Wifite**](https://github.com/derv82/wifite2)    | Designed to use all known methods for retrieving the password of a wireless access point (router). 
 [**EvilTwin**](https://github.com/Z4nzu/fakeap)    | A script to perform Evil Twin Attack, by getting credentials using a Fake page and Fake Access Point.
 [**Fastssh**](https://github.com/Z4nzu/fastssh)    | Performs multi-threaded scan and brute force attack against SSH protocol using the most commonly credentials.
+[**Aircrack-ng**](https://www.aircrack-ng.org)    | Aircrack- ng is a complete suite of tools to assess WiFi network security.
+[**Kismet**](https://www.kismetwireless.net)    | Kismet is a wireless network and device detector, sniffer, wardriving tool, and WIDS framework.
 
 
 
