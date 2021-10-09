@@ -195,6 +195,9 @@ Repository | Description
 [**Guide**](http://trailofbits.github.io/ctf/)    | Beginner's Guide to CTF Field.
 [**PicoCTF**](https://picoctf.org/)    | Beginner friendly CTF to compete.
 [**CryptoHack**](https://cryptohack.org/)    | Best free platform for learning modern cryptography.
+[**HackThisSite**](https://www.hackthissite.org/)   | Practice and expand your hacking skills.                     |
+[**Cyber Talents**](https://cybertalents.com/challenges/)   | Hands-on practical scenariosin different cyber security fields. |
+[**OverTheWire**](https://overthewire.org/wargames) | Practice security concepts in the form of fun-filled games.  |
 
 
 # OSINT (Open Source INTelligence)
