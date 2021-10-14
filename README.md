@@ -128,6 +128,8 @@ Repository | Description
 ---- | ---- 
 [**Awesome Web Hacking**](https://github.com/infoslack/awesome-web-hacking)    | A collection of tools used for SQL Injections and hacking websites.
 [**PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)    | A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
+[**CS 253 Web Security**](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)    | A comprehensive overview of web security.
+[**Beginner Web Application Hacking(The Cyber Mentor)**](https://www.youtube.com/watch?v=24fHLWXGS-M)    | A full web hacking course for beginners.
 
 
 
@@ -155,6 +157,8 @@ Repository | Description
 [**Wifite**](https://github.com/derv82/wifite2)    | Designed to use all known methods for retrieving the password of a wireless access point (router). 
 [**EvilTwin**](https://github.com/Z4nzu/fakeap)    | A script to perform Evil Twin Attack, by getting credentials using a Fake page and Fake Access Point.
 [**Fastssh**](https://github.com/Z4nzu/fastssh)    | Performs multi-threaded scan and brute force attack against SSH protocol using the most commonly credentials.
+[**Aircrack-ng**](https://www.aircrack-ng.org)    | Aircrack- ng is a complete suite of tools to assess WiFi network security.
+[**Kismet**](https://www.kismetwireless.net)    | Kismet is a wireless network and device detector, sniffer, wardriving tool, and WIDS framework.
 
 
 
@@ -196,6 +200,9 @@ Repository | Description
 [**Guide**](http://trailofbits.github.io/ctf/)    | Beginner's Guide to CTF Field.
 [**PicoCTF**](https://picoctf.org/)    | Beginner friendly CTF to compete.
 [**CryptoHack**](https://cryptohack.org/)    | Best free platform for learning modern cryptography.
+[**HackThisSite**](https://www.hackthissite.org/)   | Practice and expand your hacking skills.                     |
+[**Cyber Talents**](https://cybertalents.com/challenges/)   | Hands-on practical scenariosin different cyber security fields. |
+[**OverTheWire**](https://overthewire.org/wargames) | Practice security concepts in the form of fun-filled games.  |
 
 
 # OSINT (Open Source INTelligence)
