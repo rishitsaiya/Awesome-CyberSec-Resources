@@ -161,6 +161,7 @@ Repository | Description
 # Hacking Mobile Platforms 📱
 Repository | Description
 ---- | ----   
+[**android-security-awesome**](https://github.com/ashishb/android-security-awesome)   | A collection of android security related resources.
 [**Keydroid**](https://github.com/F4dl0/keydroid)   | Android Keylogger + Reverse Shell.
 [**MySMS**](https://github.com/papusingh2sms/mysms)    | Script that generates an Android App to hack SMS through WAN.
 [**Lockphish (Grab target LOCK PIN)**](https://github.com/JasonJerry/lockphish)    | The first tool (05/13/2020) for phishing attacks on the lock screen.
