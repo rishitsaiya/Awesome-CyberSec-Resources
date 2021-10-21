@@ -47,7 +47,7 @@ Repository | Description
 # System Hacking 🧑🏼‍💻
 Repository | Description
 ---- | ----
-[**Setoolkit**](https://github.com/trustedsec/social-engineer-toolkit)    | An open-source penetration testing framework designed for social engineering.
+[**Social Engineering ToolKit**](https://github.com/trustedsec/social-engineer-toolkit)    | An open-source penetration testing framework designed for social engineering.
 [**SocialFish**](https://github.com/UndeadSec/SocialFish)    | A program designed to know social media stats and information related to an account.
 [**HiddenEye**](https://github.com/Open-Security-Group-OSG/HiddenEyeReborn)    | Multi-featured tool for human mistakes exploitation.
 [**Evilginx2**](https://github.com/kgretzky/evilginx2)    | A man-in-the-middle attack framework used for phishing login credentials along with session cookies.
