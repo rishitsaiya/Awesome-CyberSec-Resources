@@ -218,3 +218,12 @@ Repository | Description
 [**USB Encryption**](https://www.ebuyer.com/blog/2017/11/guide-to-usb-encryption/)    | Guide to USB encryption.
 [**Encryption Tools**](https://heimdalsecurity.com/blog/free-encryption-software-tools/)    | How to use Encryption Tools.
 [**Cipher Newsletter**](https://www.ieee-security.org/cipher.html)    | Newsletter which will keep you updated.
+
+# ExploitDB
+Repository | Description
+---- | ---- 
+[**Exploit Database Website**](https://www.exploit-db.com/) | The Exploit Database is a non-profit project that is provided as a public service by Offensive Security.
+[**ExploitDB Usage Examples**](https://www.kali.org/tools/exploitdb/) | Kali Linux exploitDB usage examples.
+[**The Exploit Database Git Repository**](https://github.com/offensive-security/exploitdb) | This is an official repository of The Exploit Database, a project sponsored by Offensive Security.
+[**Exploits & Shellcodes**](https://github.com/offensive-security/exploitdb) | ExploitDB shellcodes.
+[**Papers**](https://github.com/offensive-security/exploitdb-papers) | ExploitDB Papers.
