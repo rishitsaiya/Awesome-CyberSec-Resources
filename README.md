@@ -127,6 +127,7 @@ Repository | Description
 Repository | Description
 ---- | ---- 
 [**Awesome Web Hacking**](https://github.com/infoslack/awesome-web-hacking)    | A collection of tools used for SQL Injections and hacking websites.
+[**WPScan**](https://wpscan.com/) | The WPScan WordPress Vulnerability Database is a database of WordPress vulnerabilities, plugin vulnerabilities and theme vulnerabilities
 [**PayloadsAllTheThings**](https://github.com/swisskyrepo/PayloadsAllTheThings)    | A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 [**CS 253 Web Security**](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)    | A comprehensive overview of web security.
 [**Beginner Web Application Hacking(The Cyber Mentor)**](https://www.youtube.com/watch?v=24fHLWXGS-M)    | A full web hacking course for beginners.
